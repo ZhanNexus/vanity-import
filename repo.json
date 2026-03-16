@@ -1,0 +1,8 @@
+{
+  "golang": [
+    { "name": "whatsmeow", "url": "github.com/ZhanNexus/whatsmeow" }
+  ],
+  "python": [
+    { "name": "neonize", "url": "github.com/ZhanNexus/neonize" }
+  ]
+}
