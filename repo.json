@@ -1,8 +1,8 @@
 {
   "golang": [
-    { "name": "whatsmeow", "url": "github.com/ZhanNexus/whatsmeow" }
+    { "name": "whatsmeow", "url": "https://github.com/ZhanNexus/whatsmeow.git" }
   ],
   "python": [
-    { "name": "neonize", "url": "github.com/ZhanNexus/neonize" }
+    { "name": "neonize", "url": "https://github.com/ZhanNexus/neonize.git" }
   ]
 }
