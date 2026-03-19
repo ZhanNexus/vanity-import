@@ -1,7 +1,7 @@
 import { serve } from "https://deno.land/std@0.177.0/http/server.ts";
 
 const DOMAIN = "golang.nett.to";
-const REPO_JSON_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/repo.json";
+const REPO_JSON_URL = "https://raw.githubusercontent.com/ZhanNexus/vanity-import/refs/heads/main/repo.json";
 
 serve(async (req) => {
   const url = new URL(req.url);
